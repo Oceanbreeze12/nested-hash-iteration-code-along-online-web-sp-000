@@ -1,4 +1,4 @@
-require 
+ require_relative "../lib/contacts.rb"
 
   # This is the array we will be passing into the remove_strawberry method
   # contacts = {
